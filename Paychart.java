@@ -1,4 +1,4 @@
-// Alice Smith & Bob Johnson
+// Conner Worrell
 
 // Commission class extends Hourly class to represent employees who earn hourly pay and commission on sales.
 public class Commission extends Hourly {
